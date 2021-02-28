@@ -1,6 +1,16 @@
-# WtwUi
+# wtw-ui
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+
+And then upgraded to Angular CLI 11 and @angular/\* v/11
+
+## Plain - no-component - application
+
+The frontend for this app was created with the sole purpose of activating the backend and presenting the result as simple as possible :-)
+
+Thus everything has been squeezed into the AppComponent instead of smaller components with a more limited responsibility.
+
+# Default Angular project documentation
 
 ## Development server
 
